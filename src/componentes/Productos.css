@@ -1,0 +1,31 @@
+.cardsCompletas{
+    margin: 20px;
+   
+}
+
+.tituloCarta{
+    text-align: center;
+    font-family: 'Sansita One', sans-serif;
+}
+
+button{
+    display: flex;
+    justify-content: center;
+} 
+
+.letreroDeBoton{
+    margin-top: 40px;
+    font-family: 'Sansita One', sans-serif; 
+}
+
+.iconoLupa{
+    width: 35px;
+    height: auto;
+  }
+
+  .cards img{
+    width: 250px;
+    height: auto;
+  }
+
+  

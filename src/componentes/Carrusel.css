@@ -1,0 +1,31 @@
+ .carrusel{
+    display: flex;
+    justify-content: center;
+ }
+ 
+ img{
+    width: 950px;
+    height: auto;
+    margin: 20px;
+ }
+
+ 
+ .transparente{
+   background-color: transparent;
+   opacity: 0.6;
+} 
+
+.subtitulos p{
+    text-align: center;
+    color: black;
+    font-family: 'Angrela Display', sans-serif;
+    font-size: 35px;                                            
+                                                
+}
+
+.subtitulos h3{
+    color: black;
+    font-family: 'Sansita One', sans-serif;                                       
+}
+
+

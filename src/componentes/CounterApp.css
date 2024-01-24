@@ -1,0 +1,10 @@
+button{
+    padding: 15px;
+    font-size: 1.3 rem;
+   margin-right: 5px;
+}
+
+.botoncito { 
+   display: flex;
+   justify-content: center;
+}

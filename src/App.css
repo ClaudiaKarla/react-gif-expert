@@ -1,0 +1,36 @@
+*{
+  background-color: #D6DBDF ;
+}
+
+.titulo{
+  background-color: blue;
+  
+}
+
+ @media (min-width: 320px) and (max-width:2560px){
+  .titulo{
+    background-color:rgb(128, 139, 150  );
+    color: white;
+    font-size: 35px;
+    font-family: 'Laughter', sans-serif;                                                                                                                          
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+  }
+
+  .logo img{
+    width: 150px;
+    height: auto;
+    margin: 10px;
+    border-radius: 50%;
+  } 
+
+  .logo h3{
+  display: inline-block;
+  vertical-align:middle;  
+  font-family: 'River', sans-serif;                                  
+  font-size: 30px; 
+  color: black;                                             
+  }
+
+}
